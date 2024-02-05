@@ -12,6 +12,8 @@ As part of the WTL Series Wireless Thermostat project I created Johnson Controls
 [WTL documentation (HTML)
 ](https://docs.johnsoncontrols.com/bas/search/all?query=wtl&filters=ft%253AisPublication~%2522true%2522&content-lang=en-US)
 
+[WTL Summer Winter Thermostat Quick Start Guide]()
+
 
 
 WTL Summer-Winter Series Wireless Thermostat Quick Start Guide
