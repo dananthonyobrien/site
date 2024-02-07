@@ -21,7 +21,7 @@ I adapted the existing Cypress documentation to conform to the Johnson Controls 
 
 
 ### TEC3000 Thermostat ###
-The TEC3000 is the Johnson Controls flagship thermostat, designed to fully integrate with the Metasys Building Automation System (BAS). During my time as thermostat writer, I made several updates to the TEC3000 documenation. To complete these updates I worked with Johnson Controls product managers, engineers, and software developers to understand the new features and then test them using firmware installed on the existing TEC3000 models in the lab.
+The TEC3000 is the Johnson Controls flagship thermostat, designed to fully integrate with the Metasys Building Automation System (BAS). During my time as thermostat writer, I made several updates to the TEC3000 documenation, particularly related to new features added in response to the Covid pandemic including epidemic control ventilation, occupant sensor ventilation, and CO2 monitoring ventillation. To complete these updates I worked with Johnson Controls product managers, engineers, and software developers to understand the new features and then test them using firmware installed on the existing TEC3000 models in the lab.
 
 ![TEC3000 Thermostats](https://github.com/dananthonyobrien/site/assets/59654922/433d2c14-c530-4083-bade-9e67438df628)
 Figure: TEC3000 Thermostats
