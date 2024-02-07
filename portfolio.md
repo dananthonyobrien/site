@@ -7,6 +7,9 @@ permalink: /portfolio/
 ## Technical Writing Projects ##
 
 ### WTL Thermostat ###
+**Product Description:** 
+
+**Technical Writing Project:**
 As part of the WTL Series Wireless Thermostat project I created Johnson Controls documents for a wireless pneumatic thermostat produced by Cypress Envirosystems. One of my colleagues began this original equipment manufacturer (OEM) project before she moved to another business unit and I replaced her. I continued her regular meetings with product managers and engineers in both Cypress and Johnson Controls to better understand the project scope and the product itself. I ordered the two thermostat models (standard and summer-winter) to test in our lab. 
 
 ![WTL Thermostats](https://github.com/dananthonyobrien/site/assets/59654922/0d445d2e-1c83-49ca-8ca1-a2a21f152430)
@@ -19,6 +22,7 @@ I adapted the existing Cypress documentation to conform to the Johnson Controls 
 
 * [WTL Summer-Winter Thermostat Quick Start Guide (PDF)](https://github.com/dananthonyobrien/site/blob/gh-pages/A163816VA2.pdf)
 
+* [WTL Summer-Winter Thermostat Quick Start Guide (PDF)](https://dananthonyobrien.github.io/site/A163816VA2.pdf)
 
 ### TEC3000 Thermostat ###
 The TEC3000 is the Johnson Controls flagship thermostat, designed to fully integrate with the Metasys Building Automation System (BAS). During my time as thermostat writer, I made several updates to the TEC3000 documenation, particularly related to new features added in response to the Covid pandemic including epidemic control ventilation, occupant sensor ventilation, and CO2 monitoring ventillation. To complete these updates I worked with Johnson Controls product managers, engineers, and software developers to understand the new features and then test them using firmware installed on the existing TEC3000 models in the lab.
