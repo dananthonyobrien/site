@@ -5,9 +5,6 @@ permalink: /portfolio/
 ---
 
 ## WTL Thermostat ##
-**Product Description** 
-
-Pneumatic or air-driven thermostats control the HVAC systems in estimated 40% of corporate properties in the United States. Traditionally, upgrading these analog devices to digital meant replacing the entire system with wired technology, which is costly and invasive. The WTL Series Wireless Thermostat is designed to solve this problem by integrating with the building’s existing pneumatic tubes, rather than replacing them. The WTL Thermostat then connects wirelessly to the WTL Gateway and Control Server, which provide Direct Digital Control and can be further integrated with building automation systems such as Metasys to provide remote control, scheduling, and multiple setpoints.
 
 **Technical Writing Project** 
 
@@ -16,7 +13,11 @@ As part of the WTL Series Wireless Thermostat project I created Johnson Controls
 ![WTL Thermostats](https://github.com/dananthonyobrien/site/assets/59654922/0d445d2e-1c83-49ca-8ca1-a2a21f152430)
 ***WTL Thermostats in lab***
 
-I adapted the existing Cypress documentation to conform to the Johnson Controls style guide, then sent our for a series of technical reviews where engineers provided updates on new and deprecated features. Concurrently, I sent the documents out for peer review by my fellow writers. Overall, I contributed a substantial amount of the content for the WTL document set, and created a new Summer-Winter Thermostat Quick Start Guide. I also created QR pack sheets for both models as part of a company-wide sustainability initiative to limit pages pack in the box with the product.
+I adapted the existing Cypress documentation to conform to the Johnson Controls style guide, then sent our for a series of technical reviews where engineers provided updates on new and deprecated features. Concurrently, I sent the documents out for peer review by my fellow writers. Overall, I contributed a substantial amount of the content for the WTL document set, and created a new Summer-Winter Thermostat Quick Start Guide. I also created QR pack sheets for both models as part of a company-wide sustainability initiative to limit the amount of paper that goes in the box with the product.
+
+**Product Description** 
+
+Pneumatic or air-driven thermostats control the HVAC (heating, ventilation, and air conditioning) systems in an estimated 40% of corporate properties in the United States. Traditionally, upgrading these analog devices to digital meant replacing the entire system with wired technology, which is costly and invasive. The WTL Series Wireless Thermostat solves this problem by integrating with the building’s existing pneumatic tubes, rather than replacing them. The WTL Thermostat then connects wirelessly to the WTL Gateway and Control Server, which you can use for direct digital control and scheduling. 
 
 **Documentation Examples**
 
@@ -29,14 +30,15 @@ I adapted the existing Cypress documentation to conform to the Johnson Controls 
 * [WTL Summer-Winter Thermostat Quick Start Guide (PDF)](https://dananthonyobrien.github.io/site/A163816VA2.pdf)
 
 ### TEC3000 Thermostat ###
-**Product Description**
-The TEC3000 is the flagship Johnson Controls thermostat, designed to fully integrate with the Metasys Building Automation System (BAS) and a range of other Johnson Controls products. Interactive touchscreens provide an engaging user experience suitable for the modern workplace. Beyond the compelling design, the TEC3000 is feature rich, including epidemic control, occupant sensors, and CO ~2~ monitoring.
 
 **Technical Writing Project**
-During my time as thermostat writer, I made several updates to the TEC3000 documenation, particularly related to new features added in response to the Covid pandemic including epidemic control, occupant sensor, and CO2 monitoring ventillation. To complete these updates I worked with Johnson Controls product managers, engineers, and software developers to understand the new features and then test them using firmware installed on the existing TEC3000 models in the lab.
+During my time as thermostat writer, I made several major updates to the TEC3000 Thermostat documenation, particularly related to new features added in response to the Covid pandemic. To complete these updates I worked with Johnson Controls product managers, engineers, and software developers to understand the new features and then test them using firmware installed on the existing TEC3000 models in the lab.
 
 ![TEC3000 Thermostats](https://github.com/dananthonyobrien/site/assets/59654922/433d2c14-c530-4083-bade-9e67438df628)
 ***TEC3000 Thermostats in lab***
+
+**Product Description**
+The TEC3000 is the flagship Johnson Controls thermostat, designed to fully integrate with the Metasys Building Automation System (BAS) and a range of other Johnson Controls products. Interactive touchscreens provide an engaging user experience suitable for the modern workplace. Beyond the compelling design, the TEC3000 is feature rich, including epidemic control, occupant sensors, and CO ~2~ monitoring.
 
 **Documentation Examples**
 * [TEC3000 documentation (HTML)](https://docs.johnsoncontrols.com/bas/search/all?query=tec3000&filters=ft%253AisPublication~%2522true%2522&period=custom_2021-05-01_2024-02-05&content-lang=en-US)
@@ -47,7 +49,11 @@ During my time as thermostat writer, I made several updates to the TEC3000 docum
 ### Airwall ###
 **Product Desciption**
 
-Airwall provides cybersecurity for critical infrastructure such as factories, hospitals, universities, and company campuses, all increasingly connected and increasingly vulnerable to cyber attack through physical devices. Without protection, these entities are like your home with all the windows and doors thrown open. Airwall closes these windows by cloaking your devices and routing your traffic through encrypted tunnels. Airwall works based on zero trust, which means only invited traffic enters your building, like a bouncer on your front door checking invitations. Airwall also microsegments your internal networks, both for ease of management and to prevent bad actors free reign if they do enter your network. Imagine a thief breaking into your house, only to find all the internal doors locked as well. The Airwall solution comprises three distinct elements: the Airwall Gateway for protecting devices, the Airwall Agent for connecting to those protected devices from desktop, laptop or phone, and the Airwall Conductor management portal to configure the trust between gateways and agents via micro-segmented networks called overlays. 
+Smart buildings are vulnerable buildings. As the fire, access, security, and HVAC systems in our buildings become more connected with each other and with resources in the cloud, they also become increasingly open to cyberattack. Airwall provides cybersecurity for critical infrastructure such as office builings, factories, hospitals, universities, and company campuses. Without protection, these buildings are like your home with all the windows thrown open. Airwall closes these windows by cloaking physical devices and routing traffic through encrypted tunnels. Airwall is built on zero trust - nobody enters your home without an invitation. Airwall also micro-segments your internal networks to prevent bad actors free reign if they ever manage to enter your network. Imagine a thief breaking into your house, only to find all the internal doors locked as well. 
+
+The Airwall solution comprises three distinct elements: the Airwall Gateway for protecting devices, the Airwall Agent for connecting to those protected devices from desktop, laptop or phone, and the Airwall Conductor management portal to configure connections between gateways and agents through micro-segmented networks called overlays. The Conductor abstracts away complexity, allowing you to understand your network visually. Simply click and drag to create trust between two devices.
+
+
 
 **Technical Writing Project**
 
