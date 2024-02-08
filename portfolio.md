@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 # WTL Thermostat 
 
-#### Technical Writing Project
+#### Project Description
 
 As part of the WTL Series Wireless Thermostat project I created Johnson Controls documents for this wireless pneumatic thermostat produced by Cypress Envirosystems. One of my colleagues began this original equipment manufacturer (OEM) project before she moved to another business unit and I replaced her. I continued her regular meetings with product managers and engineers in both Cypress and Johnson Controls to better understand the project scope and the product itself. As part of my research, I ordered the two thermostat models (standard and summer-winter) to set up and test in our lab. 
 
@@ -28,7 +28,7 @@ Pneumatic or air-driven thermostats control the HVAC (heating, ventilation, and 
 
 # TEC3000 Thermostat 
 
-#### Technical Writing Project 
+#### Project Description
 During my time as thermostat writer, I made several major updates to the TEC3000 Thermostat documentation, particularly related to new features added in response to the Covid pandemic. To complete these updates I worked with Johnson Controls product managers, engineers, and software developers to understand the new features and then test them using firmware installed on TEC3000 models in the lab.
 
 ![TEC3000 Thermostats](https://github.com/dananthonyobrien/site/assets/59654922/433d2c14-c530-4083-bade-9e67438df628)
@@ -45,7 +45,7 @@ The TEC3000 is the flagship Johnson Controls thermostat, designed to fully integ
 
 # Airwall 
 
-#### Technical Writing Project 
+#### Project Description
 
 In 2022, Johnson Controls bought the cybersecurity company Tempered, to use their zero trust Airwall solution to protect and connect Johnson Controls building system devices. I managed the documentation transition and continue to maintain their original help site, [Airwall Help](https://webhelp.tempered.io/), adding new features at each release. I also work on new internal documents to cover Johnson Controls equipment with embedded Airwall software. Other projects include creating installation guides for two new types of Airwall Gateway, the AV3200g and AV3033. I am currently creating Johnson Controls data sheets and QR pack sheets for the full range of Airwall Gateways.
 
