@@ -21,11 +21,11 @@ Pneumatic or air-driven thermostats control the HVAC (heating, ventilation, and 
 
 #### Documentation Examples 
 
-* [WTL documentation (HTML)
-](https://docs.johnsoncontrols.com/bas/search/all?query=wtl&filters=ft%253AisPublication~%2522true%2522&content-lang=en-US)
 
 * [WTL Summer-Winter Thermostat Quick Start Guide (PDF)](https://dananthonyobrien.github.io/site/A163816VA2.pdf)
-
+  
+* [WTL documentation (HTML)
+](https://docs.johnsoncontrols.com/bas/search/all?query=wtl&filters=ft%253AisPublication~%2522true%2522&content-lang=en-US)
 # TEC3000 Thermostat 
 
 #### Project Description
