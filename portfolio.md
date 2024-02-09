@@ -59,7 +59,8 @@ Smart buildings are vulnerable buildings. As the fire, access, security, and HVA
 
 The Airwall solution comprises three distinct elements: the Airwall Gateway for protecting devices, the Airwall Agent for connecting to those protected devices from desktop, laptop or phone, and the Airwall Conductor management portal to configure connections between gateways and agents through micro-segmented networks called overlays. The Conductor abstracts away complexity, allowing you to understand your network visually. Simply click and drag to create trust between two devices. A visiting service technician needs to access a chiller? You can grant a time-limited connection. You need to connect fifty of your engineers in one country with a campus of building automation systems in another? Just create a people group and a device group, then drag a single line of trust between them. Airwall: makes your life easier, and hackers' impossible.
 
-![Conductor](https://github.com/dananthonyobrien/site/assets/59654922/39488398-32f0-4b02-b919-5d31a5bac6bd")
+
+<img alt="conductor" src="https://github.com/dananthonyobrien/site/assets/59654922/6d95e9a3-e9a4-49ba-b9f1-57547c505fef">
 
 ***Network overlay in Airwall Conductor***
 
