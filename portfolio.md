@@ -28,6 +28,7 @@ Pneumatic or air-driven thermostats control the HVAC (heating, ventilation, and 
   
 * [WTL documentation (HTML)
 ](https://docs.johnsoncontrols.com/bas/search/all?query=wtl&filters=ft%253AisPublication~%2522true%2522&content-lang=en-US)
+
 # TEC3000 Thermostat 
 
 #### Project Description
@@ -40,10 +41,10 @@ During my time as thermostat writer, I made several major updates to the TEC3000
 The TEC3000 is the flagship Johnson Controls thermostat, designed to fully integrate with the Metasys Building Automation System (BAS) and a range of other Johnson Controls products. Interactive touchscreens provide an engaging user experience suitable for the modern workplace. Beyond the compelling design, the TEC3000 helps create healthier and more sustainable buildings, with new features including epidemic control, occupant sensors, and carbon dioxide monitoring.
 
 #### Documentation Examples 
-* [TEC3000 documentation (HTML)](https://docs.johnsoncontrols.com/bas/search/all?query=tec3000&filters=ft%253AisPublication~%2522true%2522&period=custom_2021-05-01_2024-02-05&content-lang=en-US)
 
 * [TEC3000 Series Thermostats for Packaged Rooftop and Heat Pump with Economizer Quick Start Guide (PDF)](https://dananthonyobrien.github.io/site/m_241135300036.pdf)
-
+  
+* [TEC3000 documentation (HTML)](https://docs.johnsoncontrols.com/bas/search/all?query=tec3000&filters=ft%253AisPublication~%2522true%2522&period=custom_2021-05-01_2024-02-05&content-lang=en-US)
 
 # Airwall 
 
@@ -63,11 +64,11 @@ The Airwall solution comprises three distinct elements: the Airwall Gateway for 
 
 
 ![header](/img/conductor.png)
+
 ***Network overlay in Airwall Conductor***
 
 #### Documentation Examples  
 
-* [Airwall Help](https://webhelp.tempered.io/)
 * [Airwall Gateway AV3200g Installation Guide](https://webhelp.tempered.io/content/topics/aw_install_av3200g.html#aw_install_av3200g)
 * [Airwall Gateway AV3033 Installation Guide](https://webhelp.tempered.io/content/topics/aw_install_av3033.html#aw_install_av3033)
 
