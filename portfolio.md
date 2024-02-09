@@ -46,7 +46,7 @@ The TEC3000 is the flagship Johnson Controls thermostat, designed to fully integ
   
 * [TEC3000 documentation (HTML)](https://docs.johnsoncontrols.com/bas/search/all?query=tec3000&filters=ft%253AisPublication~%2522true%2522&period=custom_2021-05-01_2024-02-05&content-lang=en-US)
 
-# Airwall 
+# Airwall Cybersecurity Solution
 
 #### Project Description
 
