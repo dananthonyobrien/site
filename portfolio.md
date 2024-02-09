@@ -23,6 +23,8 @@ Pneumatic or air-driven thermostats control the HVAC (heating, ventilation, and 
 
 
 * [WTL Summer-Winter Thermostat Quick Start Guide (PDF)](https://dananthonyobrien.github.io/site/A163816VA2.pdf)
+
+* [WTL Gateway and Control Server Pack Sheet (PDF)](https://dananthonyobrien.github.io/site/A16381WVGM.pdf)
   
 * [WTL documentation (HTML)
 ](https://docs.johnsoncontrols.com/bas/search/all?query=wtl&filters=ft%253AisPublication~%2522true%2522&content-lang=en-US)
