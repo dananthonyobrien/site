@@ -13,7 +13,7 @@ As part of the WTL Series Wireless Thermostat project I created Johnson Controls
 ![WTL Thermostats](https://github.com/dananthonyobrien/site/assets/59654922/0d445d2e-1c83-49ca-8ca1-a2a21f152430)
 ***WTL Thermostats in lab***
 
-I adapted the existing Cypress documentation to conform to the Johnson Controls style guide, then sent our for a series of technical reviews where engineers provided updates on new and deprecated features. Concurrently, I sent the documents out for peer review by my fellow writers. Overall, I contributed a substantial amount of the content for the WTL document set, and created a new Summer-Winter Thermostat Quick Start Guide. I also created QR pack sheets for both models as part of a company-wide sustainability initiative to limit the amount of paper that goes in the box with the product.
+I adapted the existing Cypress documentation to conform to the Johnson Controls style guide, then sent our for a series of technical reviews where engineers provided updates on new and deprecated features. Concurrently, I sent the documents out for peer review by my fellow writers. Overall, I contributed a substantial amount of the content for the WTL document set, and created a new Summer-Winter Thermostat Quick Start Guide. I also created QR pack sheets for the various pieces of WTL equipment as part of a company-wide sustainability initiative to limit the amount of paper that goes in the box with the product.
 
 #### Product Description 
 
